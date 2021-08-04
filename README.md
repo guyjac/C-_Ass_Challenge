@@ -1,4 +1,4 @@
-# C++ assignment 
+# C++ assignment 1 ex1
 An assignment challenge completed using C++.
 
 Note that some of these operators have been declared as member functions whereas others have been declared as friends of the class; this has been done arbitrarily to require you to implement both kinds of function. You must not make any changes to the header file.
